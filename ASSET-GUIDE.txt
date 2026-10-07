@@ -1,0 +1,8 @@
+PHOTOS
+------
+Your five supplied photographs are already included in assets/images/.
+No video files are required.
+
+Contact icons
+-------------
+Instagram, email, WhatsApp and phone are configured in index.html.
